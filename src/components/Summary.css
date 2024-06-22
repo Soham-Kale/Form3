@@ -1,0 +1,19 @@
+.summary-container {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .summary-container h2 {
+    margin-bottom: 15px;
+  }
+  
+  .summary-container p {
+    margin: 5px 0;
+  }
+  
